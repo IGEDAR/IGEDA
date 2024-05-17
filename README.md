@@ -1,10 +1,12 @@
-Welcome to iGEDA (Interactive Web Application Gene Expression Data Analysis ) !!
+Welcome to I-GEDA (Interactive Web Application for Gene Expression Data Analysis)!
 
-iGEDA is an Rstudio(v4.2.2) and web application using Shiny platform.
+I-GEDA is a web application built using the Shiny platform in R. It provides a hassle-free and interactive user experience for gene expression data analysis and exploration.
 
-iGEDA provides a hassle-free and interactive user experience in gene expression data analysis and exploration.
+I-GEDA accepts various input datasets, including user-provided datasets, for comprehensive analysis.
 
-You can easily perform differential gene expression data analysis
-generate sample plots 
-perform gene set enrichment analysis (GO and KEGG)
-perform clustering and machine learning.
+With I-GEDA, you can easily:
+- Perform differential gene expression prediction
+- Generate various plots and tables for visualization
+- Conduct enrichment analysis (GO and KEGG)
+- Perform clustering and machine learning
+
